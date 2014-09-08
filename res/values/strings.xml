@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2do</string>
+    <string name="action_settings">Settings</string>
+    <string name="nib_content">This feature isn\'t available in the beta! But thanks for clicking this. Try again on a later release!</string>
+    <string name="nib_title">OH SHIT</string>
+    <string name="todo">2 DO</string>
+    <string name="done">DONE</string>
+    <string name="bar_save">TAP AGAIN TO SAVE NOTE</string>
+    <string name="bar_del">TAP AGAIN TO DELETE CHECKED</string>
+
+    <string-array name="home_options">
+        <item>Import 2do list</item>
+        <item>Export 2do list</item>
+        <item>Donate</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="done_temp">
+        <item >Temp item 1</item>
+        <item >Temp item 2</item>
+        <item >Temp item 3</item>
+    </string-array>
+
+</resources>
